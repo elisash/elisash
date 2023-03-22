@@ -9,7 +9,7 @@ I'm a full-stack developer with a background in physical therapy and a handful y
 - 😄 Pronouns: she/her ...
 - ⚡ Fun fact: I love playing soccer...
 
-Technology Stack 
+### Technology Stack 
 
 
 <img align="left" alt="react" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,7 +21,7 @@ Technology Stack
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="js" src="" />
 
-Some of my recent work
+### Some of my recent work
 
 WorldPedia - It is a website that quizzes the user  on countries of the worlds, capitals, and language to make learning easy and fun.
 Pet Meets Pet - A play on the dating app to connect pets with each other, with an ecommerce platform tacked on.
