@@ -12,6 +12,7 @@ I'm a full-stack developer with a background in physical therapy and a handful y
 Technology Stack 
 
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 
 Some of my recent work
 
