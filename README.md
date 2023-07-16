@@ -2,9 +2,9 @@
 
 I'm a full-stack developer with a background in physical therapy and a handful years of experience in the hospitality businesss.
 
-- 🔭 I’m currently working on refactoring my previous projects and learning to write clean code 
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with networking and learning more about hackathons 
+- 🔭 Currently working on refactoring my previous projects and learning to write clean code
+- 🌱 Learning python and flask
+- 🤔 Looking to expand my network in the software community as a whole
 - 📫 How to reach me: elisasituhuang@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love playing soccer
